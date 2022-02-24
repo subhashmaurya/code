@@ -2,4 +2,3 @@
 
 cd /home/ubuntu
 npm -y install
-
